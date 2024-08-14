@@ -2,7 +2,7 @@
 ### Fall 2024: Friday 10:00AM-11:00 AM KST @Zoom
 
 ## Co-instructors
-* Prof. Kwangkeun Yi
+* Prof. Kwangkeun Yi
 * Dr. Sung Kim
 * Dr. Song-Yee Yoon 
 
