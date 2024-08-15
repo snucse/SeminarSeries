@@ -1,4 +1,4 @@
-# SNU CSE 6000E SeminarSeries: 
+# SNU CSE 4190.209 SeminarSeries: 
 ### Fall 2024: Friday 10:00AM-11:00 AM KST @Zoom
 
 ## Co-instructors
