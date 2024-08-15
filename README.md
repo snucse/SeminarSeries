@@ -6,7 +6,8 @@
 * Dr. Sung Kim
 * Dr. Song-Yee Yoon 
 
-## Course Overview:
+## Course Overview
+In this course, you will learn from leading AI experts about their insightful ideas. The course will cover their thoughts, beliefs, and concepts, including their risky but impactful ideas and what they believe but cannot yet prove. It will also discuss what they think will change the world and the biggest challenges they face.
 
 
 ## Grading breakdown:
