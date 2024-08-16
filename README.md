@@ -24,7 +24,7 @@ Students should submit a 1-page talk report after each talk by Friday at 5 PM. T
 * Questions: Any questions you asked during or after the talk (if any).
 * Additional Questions: 2-3 additional questions you would like to ask.
 
-## Proposal for Idea
+## Proposal for Idea (Team with up to 5 members)
 After all talks, students should come up with project ideas and submit a proposal. This should include, but is not limited to:
 * Problems: Clearly outline the issues you want to address and explain why they are significant.
 * Solution: Present your proposed solution to the identified problems.
