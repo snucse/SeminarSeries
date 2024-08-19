@@ -1,5 +1,5 @@
 # SNU CSE 4190.209 SeminarSeries
-### Fall 2024: Friday 10:00AM-11:00 AM KST @Zoom
+### Fall 2024: Friday 11:00AM-11:50 AM KST @Zoom
 
 ## Co-instructors
 * Prof. Kwangkeun Yi
@@ -31,7 +31,7 @@ After all talks, students should come up with project ideas and submit a proposa
 * Technical Challenges: If there are any technical difficulties, mention them here.
 * Future Work: Discuss what the next steps could be after completing your project.
 
-## Course Outline:
+## Course Outline (Friday 11AM KST):
 
 ### Week 1 Sep 6: LLM Trend by Sung Kim
 
