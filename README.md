@@ -35,5 +35,17 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ### Week 1 Sep 6: LLM Trend by Sung Kim
 
+### Week 2 Sep 13: TBA
 
-### Week 2 
+### Sep 20 (No class)
+
+### Week 3 - Oct 4: TBA
+### Week 4 - Oct 11: TBA
+### Week 5 - Oct 18: TBA
+### Week 6 - Oct 25: TBA
+### Week 7 - Nov 1: TBA
+### Week 8 - Nov 8: TBA
+### Week 9 - Nov 15: TBA 
+### Week 10 - Nov 22: TBA
+### Week 11 - Nov 29: TBA
+### Week 12 - Dec 4 (Satuarday): Proposal Post Presentation
