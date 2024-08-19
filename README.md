@@ -33,7 +33,7 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ## Course Outline:
 
-### Week 1 Sep 6: Personalzied LLM by Sung Kim
+### Week 1 Sep 6: LLM Trend by Sung Kim
 
 
 ### Week 2 
