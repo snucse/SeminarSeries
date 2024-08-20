@@ -1,5 +1,5 @@
 # SNU CSE 4190.209 SeminarSeries
-### Fall 2024: Friday 11:00AM-11:50 AM KST @Zoom
+### Fall 2024: Friday 11:00AM-11:50 AM KST [@Zoom](https://snu-ac-kr.zoom.us/j/84566542192?pwd=qEGCcuAQwDnncQDTC582gNUjIfcxCS.1)
 
 ## Co-instructors
 * [Prof. Kwangkeun Yi](https://cse.snu.ac.kr/people/faculty/41)
