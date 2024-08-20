@@ -35,7 +35,7 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ### Week 1 Sep 6: LLM Trend by Sung Kim
 
-### Week 2 Sep 13: TBA
+### Week 2 Sep 13: Qwen by Junyang Lin (Qwen Tech Leader)
 
 ### Sep 20 (No class)
 
