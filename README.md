@@ -41,7 +41,7 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ### Week 3 - Oct 4: TBA
 ### Week 4 - Oct 11: TBA
-### Week 5 - Oct 18: TBA
+### Week 5 - Oct 18: Matthias Gallé (Research Scientist at Cohere)
 ### Week 6 - Oct 25: TBA
 ### Week 7 - Nov 1: TBA
 ### Week 8 - Nov 8: TBA
