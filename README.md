@@ -45,7 +45,7 @@ After all talks, students should come up with project ideas and submit a proposa
 ### Week 6 - Oct 25: TBA
 ### Week 7 - Nov 1: TBA
 ### Week 8 - Nov 8: TBA
-### Week 9 - Nov 15: Sovereign AI to Diverse AI: NAVER's strategy in New AI Era by Dr. Jung-Woo Ha (Head of Future AI Center@NAVER)
+### Week 9 - Nov 15: TBA
 ### Week 10 - Nov 22: TBA
 ### Week 11 - Nov 29: TBA
 ### Week 12 - Dec 4 (Satuarday): Proposal Post Presentation
