@@ -33,7 +33,7 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ## Course Outline (Friday 11AM KST):
 
-### Week 1 Sep 6: Course Intro & LLM Trend by Sung Kim (Prof at HKUST/CEO at [Upstage](https://upstage.ai)
+### Week 1 Sep 6: Course Intro & (Solar Pro) LLM Trend by Sung Kim (Prof at HKUST/CEO at [Upstage](https://upstage.ai))
 
 ### Week 2 Sep 13: "Qwen2: Towards Genralist Models" by Junyang Lin (Qwen Tech Leader)
 
