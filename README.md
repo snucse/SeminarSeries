@@ -33,19 +33,17 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ## Course Outline (Friday 11AM KST):
 
-### Week 1 Sep 6: Course Intro & (Solar Pro) LLM Trend by Sung Kim (Prof at HKUST/CEO at [Upstage](https://upstage.ai))
-
-### Week 2 Sep 13: "Qwen2: Towards Genralist Models" by Junyang Lin (Qwen Tech Leader)
+### Week 1 Sep 13: Course Intro & (Solar Pro) LLM Trend by Sung Kim (Prof at HKUST/CEO at [Upstage](https://upstage.ai))
 
 ### Sep 20 (No class)
 
-### Week 3 - Oct 4: TBA
-### Week 4 - Oct 11: TBA
-### Week 5 - Oct 18 (Time change 2PM): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
-### Week 6 - Oct 25: TBA
-### Week 7 - Nov 1: TBA
-### Week 8 - Nov 8: TBA
-### Week 9 - Nov 15: TBA
-### Week 10 - Nov 22: TBA
-### Week 11 - Nov 29: TBA
-### Week 12 - Dec 4 (Satuarday): Proposal Post Presentation
+### Week 2 - Oct 4: "Qwen2: Towards Genralist Models" by Junyang Lin (Qwen Tech Leader)
+### Week 3 - Oct 11: TBA
+### Week 4 - Oct 18 (Time change 2PM): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
+### Week 5 - Oct 25: TBA
+### Week 6 - Nov 1: TBA
+### Week 7 - Nov 8: TBA
+### Week 8 - Nov 15: TBA
+### Week 9 - Nov 22: TBA
+### Week 10 - Nov 29: TBA
+### Week 11 - Dec 4 (Satuarday): Proposal Post Presentation
