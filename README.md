@@ -1,5 +1,5 @@
 # SNU CSE 4190.209 SeminarSeries
-### Fall 2024: Friday 11:00AM-11:50 AM KST [@Zoom](https://snu-ac-kr.zoom.us/j/84566542192?pwd=qEGCcuAQwDnncQDTC582gNUjIfcxCS.1)
+### Fall 2024: Friday 11:00AM-11:50 AM KST [@Zoom](https://snu-ac-kr.zoom.us/j/81289200560?pwd=ydj5ZDvLY5JpfVa4NZTdqQMM7m3jMt.1 )
 
 ## Co-instructors
 * [Prof. Kwangkeun Yi](https://cse.snu.ac.kr/people/faculty/41)
@@ -41,7 +41,7 @@ After all talks, students should come up with project ideas and submit a proposa
 ### Week 3 - Oct 11: TBA
 ### Week 4 - Oct 18 (Time change 2PM KST): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
 ### Week 5 - Oct 25: TBA
-### Week 6 - Nov 1: TBA
+### Week 6 - Nov 1: TBA by Dr. Sophia Yang (Mistral)
 ### Week 7 - Nov 8: TBA
 ### Week 8 - Nov 15: TBA
 ### Week 9 - Nov 22: TBA
