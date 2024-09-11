@@ -2,7 +2,6 @@
 ### Fall 2024: Friday 11:00AM-11:50 AM KST (Thursday 7PM PT) [@Zoom](https://snu-ac-kr.zoom.us/j/81289200560?pwd=ydj5ZDvLY5JpfVa4NZTdqQMM7m3jMt.1 )
 
 ## Co-instructors
-* [Prof. Kwangkeun Yi](https://cse.snu.ac.kr/people/faculty/41)
 * [Dr. Sung Kim](https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en)
 * Dr. Song-Yee Yoon 
 
