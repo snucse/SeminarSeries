@@ -45,4 +45,4 @@ After all talks, students should come up with project ideas and submit a proposa
 ### Week 8 - Nov 15: TBA
 ### Week 9 - Nov 22: TBA
 ### Week 10 - Nov 29: TBA
-### Week 11 - Dec 4 (Satuarday): Proposal Post Presentation
+### Week 11 - Dec 7 (Satuarday): Proposal Post Presentation
