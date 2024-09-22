@@ -39,7 +39,7 @@ After all talks, students should come up with project ideas and submit a proposa
 ### Week 2 - Oct 4: "Qwen2: Towards Genralist Models" by Junyang Lin (Qwen Tech Leader)
 ### Week 3 - Oct 11: "Phi-3.5: The Power of MoE in Advanced Training" by Dr. Young-Jin Kim (Principal Researcher at Microsoft)
 ### Week 4 - Oct 18 (Time change 2PM KST): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
-### Week 5 - Oct 25: TBA
+### Week 5 - Oct 25: A researcher from OpenAI (TBA)
 ### Week 6 - Nov 1: "Building with Mistral" by Dr. Sophia Yang (Mistral)
 ### Week 7 - Nov 8: TBA
 ### Week 8 - Nov 15: TBA
