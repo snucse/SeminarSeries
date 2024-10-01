@@ -36,7 +36,7 @@ After all talks, students should come up with project ideas and submit a proposa
 
 ### Sep 20 (No class)
 
-### Week 2 - Oct 4: "Qwen2: Towards Genralist Models" by Junyang Lin (Qwen Tech Leader)
+### Week 2 - Oct 4: "Qwen2.5: Towards Genralist Models" by Junyang Lin (Qwen Tech Leader)
 ### Week 3 - Oct 11: "Phi-3.5: The Power of MoE in Advanced Training" by Dr. Young-Jin Kim (Principal Researcher at Microsoft)
 ### Week 4 - Oct 18 (Time change 2PM KST): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
 ### Week 5 - Oct 25: A researcher from OpenAI (TBA)
