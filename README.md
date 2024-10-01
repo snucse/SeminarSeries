@@ -1,9 +1,9 @@
 # SNU CSE 4190.209 SeminarSeries
 ### Fall 2024: Friday 11:00AM-11:50 AM KST (Thursday 7PM PT) [@Zoom](https://snu-ac-kr.zoom.us/j/81289200560?pwd=ydj5ZDvLY5JpfVa4NZTdqQMM7m3jMt.1 )
 
-## Co-instructors
+## Coordinator
 * [Dr. Sung Kim](https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en)
-* Dr. Song-Yee Yoon 
+
 
 ## Course Overview
 In this course, you will learn from leading AI experts about their insightful ideas. The course will cover their thoughts, beliefs, and concepts, including their risky but impactful ideas and what they believe but cannot yet prove. It will also discuss what they think will change the world and the biggest challenges they face.
