@@ -40,9 +40,9 @@ After all talks, students should come up with project ideas and submit a proposa
 ### Week 3 - Oct 11: "Phi-3.5: The Power of MoE in Advanced Training" by Dr. Young-Jin Kim (Principal Researcher at Microsoft)
 ### Week 4 - Oct 18 (Time change 2PM KST): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
 ### Week 5 - Oct 25: No class
-### Week 6 - Nov 1: "Building with Mistral" by Dr. Sophia Yang (Mistral)
+### Week 6 - Nov 1: Forming Project Teams (SNU students only)
 ### Week 7 - Nov 8: No class
 ### Week 8 - Nov 15: A researcher from OpenAI (TBA)
-### Week 9 - Nov 22: TBA
+### Week 9 - Nov 22: "Building with Mistral" by Dr. Sophia Yang (Mistral) 
 ### Week 10 - Nov 29: TBA
 ### Week 11 - Dec 14 (Satuarday, TBA): Proposal Post Presentation
