@@ -63,6 +63,8 @@ Include Key Elements: Ensure your sketch includes aspects like user interactions
 ### Week 4 - Oct 18 (Time change 2PM KST): "Code & Synthetic data: a match made in LLM heaven" by Matthias Gallé (Head Research Scientist at Cohere)
 ### Week 5 - Oct 25: No class
 ### Week 6 - Nov 1: Forming Project Teams (SNU students only)
+#### Read and write 1 page report: https://www.khoslaventures.com/ai-dystopia-or-utopia/
+
 ### Week 7 - Nov 8: No class
 ### Week 8 - Nov 15: A researcher from OpenAI (TBA)
 ### Week 9 - Nov 22: "Building with Mistral" by Dr. Sophia Yang (Mistral) 
