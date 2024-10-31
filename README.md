@@ -25,10 +25,32 @@ Students should submit a 1-page talk report after each talk by Friday at 5 PM. T
 
 ## Proposal for Idea (Team with up to 5 members)
 After all talks, students should come up with project ideas and submit a proposal. Students can form a team with up to 5 members and are free to choose their teammates. This should include, but is not limited to:
-* Problems: Clearly outline the issues you want to address and explain why they are significant.
-* Solution: Present your proposed solution to the identified problems.
-* Technical Challenges: If there are any technical difficulties, mention them here.
-* Future Work: Discuss what the next steps could be after completing your project.
+
+To ensure a structured and impactful experience, please adhere to the following guidelines:
+
+1. Problem Definition
+
+Identify a Specific Issue: Clearly articulate a real-world problem that you aim to address using generative AI. This could range from enhancing educational tools to improving healthcare diagnostics. For example, "Developing an AI-driven platform to assist students with personalized study plans."
+
+Assess the Scope and Impact: Evaluate how widespread the problem is and the potential benefits of solving it. Consider factors such as the number of individuals affected, economic implications, and societal benefits.
+
+2. Solution Impact and Expected Outcomes
+
+Define Positive Changes: Describe the tangible benefits your solution will bring. For instance, "Reducing study time by 30% through personalized learning paths."
+
+Consider Long-Term Effects: Reflect on how your solution could evolve over time and its potential to inspire further innovations or improvements in related areas.
+
+3. Utilized Generative AI Technologies and Models
+
+Specify AI Tools and Models: Clearly state which generative AI models or tools you plan to use, such as GPT-4 for natural language processing or DALL·E for image generation.
+
+Outline Application Strategies: Detail how you intend to integrate these technologies into your solution. For example, "Leveraging GPT-4 to generate personalized study materials based on individual learning styles."
+
+4. Prototype Design and Visualization
+
+Create a Visual Representation: Develop a prototype sketch on paper that illustrates the core features and user interface of your solution. This will help convey your concept effectively.
+
+Include Key Elements: Ensure your sketch includes aspects like user interactions, data flow, and any AI components involved in the process.
 
 ## Course Outline (Friday 11AM KST):
 
