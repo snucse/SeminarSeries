@@ -66,7 +66,8 @@ Include Key Elements: Ensure your sketch includes aspects like user interactions
 #### Read and write 1 page report: https://www.khoslaventures.com/ai-dystopia-or-utopia/
 
 ### Week 7 - Nov 8: No class
-### Week 8 - Nov 15: A researcher from OpenAI (TBA)
+### Week 8 - Nov 15: "Don’t teach. Incentivize" by Dr. Hyung Won Chung (OpenAI)
+
 ### Week 9 - Nov 22: "Building with Mistral" by Dr. Sophia Yang (Mistral) 
 ### Week 10 - Nov 29: TBA
 ### Week 11 - Dec 14 (Satuarday, TBA): Proposal Post Presentation
