@@ -69,7 +69,7 @@ Include Key Elements: Ensure your sketch includes aspects like user interactions
 ### Week 8 - Nov 15: "Don’t teach. Incentivize" by Dr. Hyung Won Chung (OpenAI)
 
 ### Week 9 - Nov 22: "Building with Mistral" by Dr. Sophia Yang (Mistral) 
-### Week 10 - Nov 29: "Solar Pro: towards workspace LLMs" by Dr. Sungrae Park
+### Week 10 - Nov 29: "Solar Pro: towards workspace LLMs" by Dr. Sungrae Park (Upstage AI)
 #### Title
 Solar Pro: towards workspace LLMs
 
