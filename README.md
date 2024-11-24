@@ -69,5 +69,16 @@ Include Key Elements: Ensure your sketch includes aspects like user interactions
 ### Week 8 - Nov 15: "Don’t teach. Incentivize" by Dr. Hyung Won Chung (OpenAI)
 
 ### Week 9 - Nov 22: "Building with Mistral" by Dr. Sophia Yang (Mistral) 
-### Week 10 - Nov 29: TBA
-### Week 11 - Dec 14 (Satuarday, TBA): Proposal Post Presentation
+### Week 10 - Nov 29: "Solar Pro: towards workspace LLMs" by Dr. Sungrae Park
+#### Title
+Solar Pro: towards workspace LLMs
+
+#### Abs
+This talk will describe the requirements of AI enterprise solutions and how Solar, Upstage's LLM, plays to meet the requirements. In addition, the presentation will introduce Solar Pro, which is scheduled to be released in November 2024, including its key technologies such as depth-up-scaling and LP data pipeline.
+
+#### Bio: Sungrae Park
+- Director of Solar Intelligence Team at Upstage
+- (Former) Lead of Document AI Model at Upstage
+- (Former) Tech Lead of OCR at Naver
+
+### Week 11 - Dec 13 (Friday , 11-1PM, TBA): Proposal Post Presentation
