@@ -83,7 +83,7 @@ This talk will describe the requirements of AI enterprise solutions and how Sola
 
 ### Week 11 - Dec 13 (Friday , 11-1PM, TBA): Proposal Post Presentation with Lunch
 #### Guests 
-- 윤진수, 국민은행 부행장님 
+- 윤진수, 국민은행 KB국민은행 테크그룹 경영자문역 (전 부행장님) 
 - 조현철 상무님, LGU+ Data Science Lab장
 - Cindy Jin, Partner at SBVA
 - NamGu Choi, EICN, Solutions Development Division, Development of RAG, search engines, chatbot/callbot conversational engines, and text analysis solutions
