@@ -82,5 +82,5 @@ This talk will describe the requirements of AI enterprise solutions and how Sola
 - (Former) Tech Lead of OCR at Naver
 
 ### Week 11 - Dec 13 (Friday , 11-1PM, TBA): Proposal Post Presentation
-### Guests 
+#### Guests 
 - Cindy Jin, Partner at SBVA
