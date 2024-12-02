@@ -81,10 +81,10 @@ This talk will describe the requirements of AI enterprise solutions and how Sola
 - (Former) Lead of Document AI Model at Upstage
 - (Former) Tech Lead of OCR at Naver
 
-### Week 11 - Dec 13 (Friday , 11-1PM, TBA): Proposal Post Presentation with Lunch
+### Week 11 - Dec 13 (Friday , 11-1PM, TBA): Proposal Post-Presentation Lunch (Sponsored by Oracle)
 #### Guests 
 - 윤진수, 국민은행 KB국민은행 테크그룹 경영자문역 (전 부행장님) 
 - 조현철 상무님, LGU+ Data Science Lab장
 - Cindy Jin, Partner at SBVA
-- TBA, Oracle
+- 김태완 상무, Oracle, Master Principal Cloud Engineer
 - NamKyu Choi, EICN, Solutions Development Division, Development of RAG, search engines, chatbot/callbot conversational engines, and text analysis solutions
