@@ -81,7 +81,7 @@ This talk will describe the requirements of AI enterprise solutions and how Sola
 - (Former) Lead of Document AI Model at Upstage
 - (Former) Tech Lead of OCR at Naver
 
-### Week 11 - Dec 13 (Friday , 11-1PM, @서울대 301동 105호 (대강당)): Proposal Post-Presentation Lunch (Sponsored by Oracle)
+### Week 11 - Dec 13 (Friday , 11-1PM, @서울대 302동 105호 (대강당)): Proposal Post-Presentation Lunch (Sponsored by Oracle)
 #### Guests 
 - 윤진수, 국민은행 KB국민은행 테크그룹 경영자문역 (전 부행장님) 
 - 조현철 상무님, LGU+ Data Science Lab장
